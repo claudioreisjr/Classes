@@ -39,6 +39,10 @@ void MA1(){
 void MA2(){
 	cout << "Metodo MA2" << endl;
 }
+//alteracao num 4 da classe A
+void MA3(){
+	cout <<"Alteração a classe A partir do clone"<<endl;
+}
 
 int main(){
 	A eng;
