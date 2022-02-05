@@ -38,6 +38,10 @@ void MC2(){
 	cout << "Metodo MC2" << endl;
 }
 
+void MC3(){
+	cout << "Metodo MC3" << endl;
+}
+
 int main(){
 	C eng;
 	cin >> eng.C1 >> eng.C2;//leitura entradas class

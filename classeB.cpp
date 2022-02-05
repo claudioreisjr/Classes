@@ -40,6 +40,10 @@ void MB2(){
 	cout << "Metodo MB2" << endl;
 }
 
+void MB3(){
+	cout << "Metodo MB3" << endl;
+}
+
 int main(){
 	B eng;
 	cin >> eng.B1 >> eng.B2;//leitura entradas class
