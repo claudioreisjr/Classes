@@ -38,6 +38,9 @@ void MD2(){
 }
 
 
+void MD4(){
+	cout << "Metodo MD4" << endl;	
+}
 int main(){
 	D eng;
 	cin >> eng.D1 >> eng.D2;//leitura entradas class
