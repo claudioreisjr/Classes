@@ -36,7 +36,7 @@ void MD1(){
 void MD2(){
 	cout << "Metodo MD2" << endl;
 }
-//novo metodo item 17
+//novo metodo item 17 lista exercicios
 void MD3(){
 	cout << "Metodo MD3" << endl;
 }
