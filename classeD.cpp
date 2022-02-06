@@ -36,7 +36,9 @@ void MD1(){
 void MD2(){
 	cout << "Metodo MD2" << endl;
 }
-
+void MD3(){
+	cout << "Metodo MD3" << endl;
+}
 
 void MD4(){//teste
 	cout << "Metodo MD4" << endl;	
