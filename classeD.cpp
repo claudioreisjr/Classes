@@ -38,7 +38,7 @@ void MD2(){
 }
 
 
-void MD4(){
+void MD4(){//teste
 	cout << "Metodo MD4" << endl;	
 }
 int main(){
